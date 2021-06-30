@@ -1,2 +1,2 @@
 # bootcamp-dio-snt-kotlin
-Projeto para fins de mentoria e aprendizado sobre OOP no bootcamp realizado pela Digital Innovation e Santander
+Projeto desenvolvivo durante a mentoria do dia 29/06/2021 sobre OOP no bootcamp realizado pela Digital Innovation e Santander
